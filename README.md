@@ -68,7 +68,7 @@ The main Node which interacts with the Boltiot Cloud API
 ```
 
 All method other than `Boltiot.setup()` return a `Dictionary` with the following keys:
-```json
+```GDScript
 {
     "success": bool,
     ...additional keys like value, data
